@@ -1,0 +1,29 @@
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe.config
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.pdb
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csprojResolveAssemblyReference.cache
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.Form1.resources
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.Properties.Resources.resources
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csproj.GenerateResource.Cache
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csproj.CoreCompileInputs.cache
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.exe
+C:\Users\tiz\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.pdb
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe.config
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.pdb
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csprojResolveAssemblyReference.cache
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.Properties.Resources.resources
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csproj.GenerateResource.Cache
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csproj.CoreCompileInputs.cache
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.exe
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.pdb
+C:\Users\tisda\Desktop\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.MainForm.resources
+E:\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe.config
+E:\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.exe
+E:\Tisdale Project 2\Tisdale Project 2\bin\Debug\Tisdale Project 2.pdb
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csprojResolveAssemblyReference.cache
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.MainForm.resources
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale_Project_2.Properties.Resources.resources
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.csproj.GenerateResource.Cache
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.exe
+E:\Tisdale Project 2\Tisdale Project 2\obj\Debug\Tisdale Project 2.pdb
